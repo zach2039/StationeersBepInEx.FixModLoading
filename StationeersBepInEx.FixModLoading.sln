@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationeersBepInEx.FixModLoading", "StationeersBepInEx.FixModLoading.csproj", "{832200D0-3F21-40E0-8F33-A6E95B7D295A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832200D0-3F21-40E0-8F33-A6E95B7D295A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832200D0-3F21-40E0-8F33-A6E95B7D295A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832200D0-3F21-40E0-8F33-A6E95B7D295A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832200D0-3F21-40E0-8F33-A6E95B7D295A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABD3603-6215-4D1C-92A1-2F7AB29724D6}
+	EndGlobalSection
+EndGlobal
