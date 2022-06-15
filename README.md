@@ -1,3 +1,5 @@
+**NO LONGER REQUIRED WITH STATIONEERS v0.2.3336.16533 ONWARD**
+
 # StationeersBepInEx.FixModLoading
 A BepInEx plugin for Stationeers beta that reimplements loading of mods.
 
